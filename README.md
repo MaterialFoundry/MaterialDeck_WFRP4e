@@ -1,0 +1,1 @@
+This module adds support for 'Warhammer Fantasy Roleplaying 4e' to [Material Deck](https://github.com/MaterialFoundry/MaterialDeck).
